@@ -1,0 +1,67 @@
+select{
+    transition-property: value;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+h2{
+    color:rgb(0, 0, 0)
+}
+h3{
+    color: black;
+}
+label{
+    color: rgb(0, 78, 245);
+}
+
+option{color: rgb(226, 73, 12);}
+select{color: rgb(0, 0, 0);}
+
+input{color: rgb(0, 0, 0);}
+
+div{   
+      border-color: rgb(31, 204, 152);
+      border-width: 4px;
+      
+      border-left: 4px solid red;
+    }
+    
+.myimg{ 
+    border-color: rgb(18, 76, 201);
+    border-width: 12px;
+    border-style: groove;
+    border-radius: 100%; 
+}
+
+/*.bacon{
+    background-color: brown;
+}
+.broccoli{
+    background-color: aqua;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+.course{ 
+    border-color: rgb(18, 76, 201);
+    border-width: 2px;
+    border-style: groove;
+    border-radius: 100%; 
+}*/
+
+body{background: url(https://images.wallpapersden.com/image/download/a-simple-gradient_a2duZ2iUmZqaraWkpJRmbmdlrWZlbWU.jpg);
+     background-repeat: no-repeat;
+     background-size: 100% 100%; 
+}
+hr{ border-top: 6px solid rgba(172,219,203,255) ;
+    border-style: dotted none none;
+width: 15%; }
+
+
+
+
+
+
